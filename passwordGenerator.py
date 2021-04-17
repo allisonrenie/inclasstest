@@ -4,3 +4,4 @@ passw = ''
 while leng > 0:
     passw += chr(random.randrange(48,57))
     leng -= 1
+print(passw)
