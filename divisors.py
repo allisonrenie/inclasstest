@@ -1,1 +1,2 @@
-num = input("Please enter a number: ")
+num = 7
+divisor = 7
